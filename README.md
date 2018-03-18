@@ -100,6 +100,7 @@ list of best node.js modules
 - [gm](https://github.com/aheckmann/gm)
 - [imagemin](https://github.com/imagemin/imagemin)
 - [sharp](https://github.com/lovell/sharp)
+- [jimp](https://github.com/oliver-moran/jimp)
 
 ## Emails
 
