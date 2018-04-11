@@ -72,6 +72,7 @@ list of best node.js modules
 ## Api
 
 - [clarifai](https://github.com/Clarifai/clarifai-javascript)
+- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
 
 ## System
 
@@ -119,3 +120,4 @@ list of best node.js modules
 
 - [nodemon](https://github.com/remy/nodemon)
 - [pm2](https://github.com/Unitech/pm2)
+- [live-server](https://github.com/tapio/live-server)
