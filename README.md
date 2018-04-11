@@ -48,12 +48,14 @@ list of best node.js modules
 
 - [morgan](https://github.com/expressjs/morgan)
 - [chalk](https://github.com/chalk/chalk)
+- [winston](https://github.com/winstonjs/winston)
 - [colors](https://github.com/Marak/colors.js)
 
 ## Command Line
 
 - [commander](https://github.com/tj/commander.js)
 - [yargs](https://github.com/yargs/yargs)
+- [inquirer](https://github.com/SBoudrias/Inquirer.js)
 
 ## Testing
 
@@ -72,12 +74,13 @@ list of best node.js modules
 ## Api
 
 - [clarifai](https://github.com/Clarifai/clarifai-javascript)
-- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
+- [aws-sdk](https://github.com/aws/aws-sdk-js)
 
 ## System
 
 - [fs-extra](https://github.com/jprichardson/node-fs-extra)
 - [glob](https://github.com/isaacs/node-glob)
+- [mkdirp](https://github.com/substack/node-mkdirp)
 - [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
 - [del](https://github.com/sindresorhus/del)
 - [dotenv](https://github.com/motdotla/dotenv)
@@ -95,6 +98,7 @@ list of best node.js modules
 
 - [moment](https://github.com/moment/moment)
 - [lodash](https://github.com/lodash/lodash)
+- [underscore](https://github.com/jashkenas/underscore)
 
 ## Images
 
