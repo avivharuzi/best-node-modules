@@ -70,6 +70,7 @@ list of best node.js modules
 ## Templating
 
 - [ejs](https://github.com/mde/ejs)
+- [handlebars](https://github.com/wycats/handlebars.js)
 
 ## Api
 
@@ -81,6 +82,7 @@ list of best node.js modules
 - [fs-extra](https://github.com/jprichardson/node-fs-extra)
 - [glob](https://github.com/isaacs/node-glob)
 - [mkdirp](https://github.com/substack/node-mkdirp)
+- [rimraf](https://github.com/isaacs/rimraf)
 - [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
 - [del](https://github.com/sindresorhus/del)
 - [dotenv](https://github.com/motdotla/dotenv)
@@ -99,6 +101,7 @@ list of best node.js modules
 - [moment](https://github.com/moment/moment)
 - [lodash](https://github.com/lodash/lodash)
 - [underscore](https://github.com/jashkenas/underscore)
+- [ramda](https://github.com/ramda/ramda)
 
 ## Images
 
