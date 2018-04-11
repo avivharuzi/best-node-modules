@@ -19,6 +19,7 @@ list of best node.js modules
 - [bluebird](https://github.com/petkaantonov/bluebird)
 - [promise](https://github.com/then/promise)
 - [q](https://github.com/kriskowal/q)
+- [when](https://github.com/cujojs/when)
 
 ## Http
 
@@ -30,6 +31,7 @@ list of best node.js modules
 - [request](https://github.com/request/request)
 - [request-promise](https://github.com/request/request-promise)
 - [socket.io](https://github.com/socketio/socket.io)
+- [ws](https://github.com/websockets/ws)
 - [parseurl](https://github.com/pillarjs/parseurl)
 
 ## Database
@@ -38,6 +40,7 @@ list of best node.js modules
 - [mongoose](https://github.com/Automattic/mongoose)
 - [monk](https://github.com/Automattic/monk)
 - [mysql](https://github.com/mysqljs/mysql)
+- [graphql](https://github.com/graphql/graphql-js)
 
 ## Security
 
@@ -50,27 +53,40 @@ list of best node.js modules
 - [chalk](https://github.com/chalk/chalk)
 - [winston](https://github.com/winstonjs/winston)
 - [colors](https://github.com/Marak/colors.js)
+- [bunyan](https://github.com/trentm/node-bunyan)
+- [log4js](https://github.com/log4js-node/log4js-node)
 
 ## Command Line
 
 - [commander](https://github.com/tj/commander.js)
 - [yargs](https://github.com/yargs/yargs)
 - [inquirer](https://github.com/SBoudrias/Inquirer.js)
+- [prompt](https://github.com/flatiron/prompt)
+- [meow](https://github.com/sindresorhus/meow)
 
 ## Testing
 
 - [chai](https://github.com/chaijs/chai)
 - [mocha](https://github.com/mochajs/mocha)
 - [jasmine](https://github.com/jasmine/jasmine-npm)
+- [jest](https://github.com/facebook/jest)
+- [sinon](https://github.com/sinonjs/sinon)
 
 ## Debugging
 
 - [debug](https://github.com/visionmedia/debug)
 
+## Validation
+
+- [validate.js](https://github.com/ansman/validate.js)
+- [validator](https://github.com/chriso/validator.js)
+- [joi](https://github.com/hapijs/joi/tree/v13.1.2)
+
 ## Templating
 
 - [ejs](https://github.com/mde/ejs)
 - [handlebars](https://github.com/wycats/handlebars.js)
+- [pug](https://github.com/pugjs/pug)
 
 ## Api
 
@@ -81,15 +97,16 @@ list of best node.js modules
 
 - [fs-extra](https://github.com/jprichardson/node-fs-extra)
 - [glob](https://github.com/isaacs/node-glob)
+- [globby](https://github.com/sindresorhus/globby)
 - [mkdirp](https://github.com/substack/node-mkdirp)
 - [rimraf](https://github.com/isaacs/rimraf)
-- [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
 - [del](https://github.com/sindresorhus/del)
+- [archiver](https://github.com/archiverjs/node-archiver)
 - [dotenv](https://github.com/motdotla/dotenv)
+- [config](https://github.com/lorenwest/node-config)
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
 - [uniqid](https://github.com/adamhalasz/uniqid)
 - [uuid](https://github.com/kelektiv/node-uuid)
-- [validate.js](https://github.com/ansman/validate.js)
-- [validator](https://github.com/chriso/validator.js)
 
 ## Html
 
