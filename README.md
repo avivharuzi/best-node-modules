@@ -20,6 +20,7 @@ list of best node.js modules
 - [promise](https://github.com/then/promise)
 - [q](https://github.com/kriskowal/q)
 - [when](https://github.com/cujojs/when)
+- [pify](https://github.com/sindresorhus/pify)
 
 ## Http
 
@@ -41,6 +42,7 @@ list of best node.js modules
 - [monk](https://github.com/Automattic/monk)
 - [mysql](https://github.com/mysqljs/mysql)
 - [graphql](https://github.com/graphql/graphql-js)
+- [firebase](https://github.com/firebase/firebase-js-sdk)
 
 ## Security
 
@@ -63,6 +65,8 @@ list of best node.js modules
 - [inquirer](https://github.com/SBoudrias/Inquirer.js)
 - [prompt](https://github.com/flatiron/prompt)
 - [meow](https://github.com/sindresorhus/meow)
+- [cli](https://github.com/node-js-libs/cli)
+- [figlet](https://github.com/patorjk/figlet.js)
 
 ## Testing
 
@@ -87,26 +91,30 @@ list of best node.js modules
 - [ejs](https://github.com/mde/ejs)
 - [handlebars](https://github.com/wycats/handlebars.js)
 - [pug](https://github.com/pugjs/pug)
+- [mustache](https://github.com/janl/mustache.js)
 
 ## Api
 
 - [clarifai](https://github.com/Clarifai/clarifai-javascript)
 - [aws-sdk](https://github.com/aws/aws-sdk-js)
 
-## System
+## Files
 
 - [fs-extra](https://github.com/jprichardson/node-fs-extra)
 - [glob](https://github.com/isaacs/node-glob)
 - [globby](https://github.com/sindresorhus/globby)
+- [recursive-readdir](https://github.com/jergason/recursive-readdir)
 - [mkdirp](https://github.com/substack/node-mkdirp)
 - [rimraf](https://github.com/isaacs/rimraf)
 - [del](https://github.com/sindresorhus/del)
 - [archiver](https://github.com/archiverjs/node-archiver)
+- [tmp](https://github.com/raszi/node-tmp)
+- [adm-zip](https://github.com/cthackers/adm-zip)
+
+## Config
+
 - [dotenv](https://github.com/motdotla/dotenv)
 - [config](https://github.com/lorenwest/node-config)
-- [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
-- [uniqid](https://github.com/adamhalasz/uniqid)
-- [uuid](https://github.com/kelektiv/node-uuid)
 
 ## Html
 
@@ -135,6 +143,7 @@ list of best node.js modules
 
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
 - [passport](https://github.com/jaredhanson/passport)
+- [passport-local](https://github.com/jaredhanson/passport-local)
 
 ## Typescript
 
@@ -145,3 +154,12 @@ list of best node.js modules
 - [nodemon](https://github.com/remy/nodemon)
 - [pm2](https://github.com/Unitech/pm2)
 - [live-server](https://github.com/tapio/live-server)
+
+## Other
+
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
+- [uniqid](https://github.com/adamhalasz/uniqid)
+- [uuid](https://github.com/kelektiv/node-uuid)
+- [faker](https://github.com/Marak/Faker.js)
+- [filesize](https://github.com/avoidwork/filesize.js)
+- [change-case](https://github.com/blakeembrey/change-case)
