@@ -1,4 +1,5 @@
 # best-node-modules
+
 list of best node.js modules
 
 ## Express
@@ -11,6 +12,9 @@ list of best node.js modules
 - [multer](https://github.com/expressjs/multer)
 - [body-parser](https://github.com/expressjs/body-parser)
 - [cookie-parser](https://github.com/expressjs/cookie-parser)
+- [cookie-session](https://github.com/expressjs/cookie-session)
+- [method-override](https://github.com/expressjs/method-override)
+- [compression](https://github.com/expressjs/compression)
 
 ## Promises
 
@@ -163,3 +167,4 @@ list of best node.js modules
 - [faker](https://github.com/Marak/Faker.js)
 - [filesize](https://github.com/avoidwork/filesize.js)
 - [change-case](https://github.com/blakeembrey/change-case)
+- [mime-types](https://github.com/jshttp/mime-types)
