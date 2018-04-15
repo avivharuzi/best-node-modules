@@ -162,6 +162,7 @@ list of best node.js modules
 ## Other
 
 - [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
+- [shortid](https://github.com/dylang/shortid)
 - [uniqid](https://github.com/adamhalasz/uniqid)
 - [uuid](https://github.com/kelektiv/node-uuid)
 - [faker](https://github.com/Marak/Faker.js)
