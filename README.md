@@ -161,6 +161,7 @@
 - [nodemon](https://github.com/remy/nodemon)
 - [pm2](https://github.com/Unitech/pm2)
 - [live-server](https://github.com/tapio/live-server)
+- [forever](https://github.com/foreverjs/forever)
 
 ## Other
 
