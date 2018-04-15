@@ -142,6 +142,9 @@
 ## Emails
 
 - [nodemailer](https://github.com/nodemailer/nodemailer)
+- [emailjs](https://github.com/eleith/emailjs)
+- [email-templates](https://github.com/niftylettuce/email-templates)
+- [campaign](https://github.com/bevacqua/campaign)
 
 ## Auth
 
