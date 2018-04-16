@@ -114,6 +114,8 @@
 - [archiver](https://github.com/archiverjs/node-archiver)
 - [tmp](https://github.com/raszi/node-tmp)
 - [adm-zip](https://github.com/cthackers/adm-zip)
+- [jszip](https://github.com/Stuk/jszip)
+- [download](https://github.com/kevva/download)
 
 ## Config
 
@@ -169,7 +171,11 @@
 - [shortid](https://github.com/dylang/shortid)
 - [uniqid](https://github.com/adamhalasz/uniqid)
 - [uuid](https://github.com/kelektiv/node-uuid)
+- [randomstring](https://github.com/klughammer/node-randomstring)
 - [faker](https://github.com/Marak/Faker.js)
 - [filesize](https://github.com/avoidwork/filesize.js)
 - [change-case](https://github.com/blakeembrey/change-case)
+- [camelcase](https://github.com/sindresorhus/camelcase)
 - [mime-types](https://github.com/jshttp/mime-types)
+- [path-to-regexp](https://github.com/pillarjs/path-to-regexp)
+- [ms](https://github.com/zeit/ms)
