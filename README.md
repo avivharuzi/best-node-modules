@@ -26,7 +26,7 @@ List of my favorite best Node.js modules.
 - [when](https://github.com/cujojs/when)
 - [pify](https://github.com/sindresorhus/pify)
 
-## Http
+## HTTP
 
 - [axios](https://github.com/axios/axios)
 - [co](https://github.com/tj/co)
@@ -97,7 +97,7 @@ List of my favorite best Node.js modules.
 - [pug](https://github.com/pugjs/pug)
 - [mustache](https://github.com/janl/mustache.js)
 
-## Api
+## API
 
 - [clarifai](https://github.com/Clarifai/clarifai-javascript)
 - [aws-sdk](https://github.com/aws/aws-sdk-js)
@@ -122,7 +122,7 @@ List of my favorite best Node.js modules.
 - [dotenv](https://github.com/motdotla/dotenv)
 - [config](https://github.com/lorenwest/node-config)
 
-## Html
+## HTML
 
 - [html-inline](https://github.com/substack/html-inline)
 - [cheerio](https://github.com/cheeriojs/cheerio)
@@ -154,7 +154,7 @@ List of my favorite best Node.js modules.
 - [passport](https://github.com/jaredhanson/passport)
 - [passport-local](https://github.com/jaredhanson/passport-local)
 
-## Typescript
+## TypeScript
 
 - [ts-node](https://github.com/TypeStrong/ts-node)
 
