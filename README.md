@@ -1,6 +1,6 @@
 # Best Node Modules
 
-> list of best node.js modules
+List of my favorite best Node.js modules.
 
 ## Express
 
